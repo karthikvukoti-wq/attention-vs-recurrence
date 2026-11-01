@@ -1,0 +1,6 @@
+{
+  "name": "Attention vs Recurrence",
+  "description": "An interactive ML research benchmark comparing LSTM and Transformer models for text classification across accuracy, latency, training time, and memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
